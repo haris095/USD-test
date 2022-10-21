@@ -1,0 +1,3 @@
+cmake -DBOOST_ROOT=/home/linuxbrew/.linuxbrew/Cellar/boost/1.80.0 ..
+cmake --build .
+cmake --install .
